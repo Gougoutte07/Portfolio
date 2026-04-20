@@ -1,6 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Bitcount+Grid+Double:wght@100..900&family=Lora:ital,wght@0,400..700;1,400..700&family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&family=Playwrite+IE:wght@100..400&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Sekuya&display=swap');
 
-
+#apropos {
+    scroll-margin-top: 150px;
+}
+#competences {
+    scroll-margin-top: 80px;
+}
+#projets {
+    scroll-margin-top: 150px;
+}
+#contact {
+    scroll-margin-top: 150px;
+}
 *{
     margin: 0;
     padding: 0;
